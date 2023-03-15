@@ -10,7 +10,9 @@ public class SpringBootFirstappTestApplication {
     public static void main(String[] args) {
         ConfigurableApplicationContext configurableApplicationContext =
                 SpringApplication.run(SpringBootFirstappTestApplication.class, args);
-        System.out.println("This is branch feature/two");
+        System.out.println("Hello this is conflict file");
+        System.out.println("conflict file resolved");
+
     }
 
 }
