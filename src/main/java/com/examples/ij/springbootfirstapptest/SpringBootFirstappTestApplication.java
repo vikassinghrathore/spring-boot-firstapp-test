@@ -13,7 +13,6 @@ public class SpringBootFirstappTestApplication {
         System.out.println("Hello this is conflict file");
         System.out.println("conflict file resolved");
         System.out.println("conflict file resolved-1");
-
     }
 
 }
